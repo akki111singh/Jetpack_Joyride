@@ -10,12 +10,12 @@ obstacles/enemies as they have penalties.
 OpenGl 3.0
 
 ## Installing
-1.Clone this repo to your Local machine.
-2.Do the following steps to run game:
-   mkdir build.
-   cd build.
-   make all.
-   ./graphics_asgn1.
+* Clone this repo to your Local machine.
+* Do the following steps to run game:
+   * mkdir build.
+   * cd build.
+   * make all.
+   * ./graphics_asgn1.
  
  ## Features:
  * The world consists of a wall,7 segmented score display,platform and the player.The player
@@ -28,10 +28,10 @@ OpenGl 3.0
     Green Boomerang is for getting extra life
     Pink is for shield Shield last for 10 seconds after getting it during which no enemy can harm player
  * The game  have certain enemies(on collision with them,the player should lose points:
-    Enemy 1(​ Fire Lines)
-    Enemy 2(​ Fire Beams)
-    Enemy 3(​ Brown colored Boomerangs)
-    Enemy 4(​ Viserion Dragon​ )
+   * Enemy 1(​ Fire Lines)
+   * Enemy 2(​ Fire Beams)
+   * Enemy 3(​ Brown colored Boomerangs)
+   * Enemy 4(​ Viserion Dragon​ )
   
  ## Controls
   * Space -> Jump
