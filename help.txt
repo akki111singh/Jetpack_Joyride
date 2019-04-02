@@ -1,0 +1,21 @@
+Controls
+
+Space :: Jump
+S :: Throw ballons
+Right :: move_forward
+Left :: move_backward
+
+Boomerang
+
+Implemented Features:
+
+Background Panning
+Green Boomerang is for getting extra life
+Pink is for shield Shield last for 10 seconds after getting it during which no enemy can harm player
+Inside Ring no enemy can harm player
+Baloons can destoy fireline
+Fire Beams
+Brown Boomerangs enemy3
+Magnets to influence players motion
+
+Bonus: dragon+better rep of player
