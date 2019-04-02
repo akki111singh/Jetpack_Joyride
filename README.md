@@ -36,12 +36,12 @@ OpenGl 3.0
   
  ## Controls
   * Space -> Jump
-  * S -> Throw ballons
+  * S -> Throw balloons
   * Right -> Move forward
   * Left -> Move backward
   
   ## How to win the game
-  Kill viserion Dragon by throwing some ballons.
+  Kill viserion Dragon by throwing some balloons.
   
  
  ###### Please report any bugs/issues
