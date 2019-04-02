@@ -1,6 +1,6 @@
 # Project Title
 This will be an arcade game (inspired by ​ Jetpack Joyride​ ) where the player
-controls the object (for simplicity, it can be a ball too) and move it up, forward and
+controls the object and move it up, forward and
 backward while collecting coins. The player should also dodge the
 obstacles/enemies as they have penalties.
 
