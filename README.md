@@ -12,10 +12,11 @@ OpenGl 3.0
 ## Installing
 * Clone this repo to your Local machine.
 * Do the following steps to run game:
-   * mkdir build.
-   * cd build.
-   * make all.
-   * ./graphics_asgn1.
+   * mkdir build
+   * cd build
+   * cmake ..
+   * make all
+   * ./graphics_asgn1
  
  ## Features:
  * The world consists of a wall,7 segmented score display,platform and the player.The player
